@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "us",
+  "collection": "UnitedStatesMapIcons",
+  "android": {
+    "repository": "android-icons-us",
+    "namespace": "com.mapconductor.icons.us"
+  },
+  "ios": {
+    "repository": "ios-icons-us",
+    "module": "MapConductorIconsUS"
+  },
+  "react": {
+    "repository": "react-icons-us"
+  },
+  "icons": [
+    { "name": "postOffice", "id": "us.post_office", "file": "post_office.svg", "description": "United States post office" },
+    { "name": "policeStation", "id": "us.police_station", "file": "police_station.svg", "description": "United States police station" },
+    { "name": "interstate", "id": "us.interstate", "file": "interstate.svg", "description": "United States Interstate highway" }
+  ]
+}
